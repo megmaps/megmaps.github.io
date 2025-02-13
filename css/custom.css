@@ -1,0 +1,17 @@
+.custom-logo {
+    width: 100px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+}
+/* Add bottom margin to columns */
+.gallery-grid {
+    margin-bottom: 20px; /* Adjust the value as needed */
+}
+/* Ensure container has padding to create space around the content */
+.container {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+  
+/** ADD YOUR AWESOME CODES HERE **/
